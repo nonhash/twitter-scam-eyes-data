@@ -1,4 +1,4 @@
-# X Scam Eyes Data Repository
+# X Scam Eyes Data
 
 This repository stores up-to-date data and is maintained by the community.
 
